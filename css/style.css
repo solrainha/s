@@ -47,6 +47,8 @@
 /* ===================================
     General
 ====================================== */
+iframe.tmblr-iframe{display:none!important}
+
 body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 15px;
