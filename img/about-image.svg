@@ -12338,9 +12338,9 @@ xzCjSA0otWYElVOe2u0kCoOOTve2uf5Wx93ffQ8ZdgGwueXDtLDd311HS6S3t3au2LYcsiMcf25z
 	<clipPath id="SVGID_2_">
 		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 	</clipPath>
-	<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_2_);">
+	<g transform="matrix(1 0 0 1 0 0)" style="display:none;clip-path:url(#SVGID_2_);">
 		
-			<image style="overflow:visible;" width="687" height="1030" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEAlACUAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+			<image style="display:inline;overflow:visible;" width="687" height="1030" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEAlACUAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAADj8AABy1gAAq23/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
 JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIBAoCswMBIgACEQEDEQH/
